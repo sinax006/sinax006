@@ -22,3 +22,6 @@ https://github.com/sinax006/sinax006/blob/Structured-Foundations/SQL%20Data%20An
 https://github.com/sinax006/sinax006/blob/Structured-Foundations/Survey%20research/10-1108_IJRDM-11-2018-0244.pdf
 https://github.com/sinax006/sinax006/blob/Structured-Foundations/Survey%20research/Enhancing%20consumer%20satisfaction%20and%20retail%20patronage%20through%20brand%20experience%20cognitive%20pleasure%20and%20shopping%20enjoyment%20A%20comparison%20between.pdf
 https://github.com/sinax006/sinax006/blob/Structured-Foundations/Survey%20research/sina.pdf
+
+### MACHINE LEARNING IN QUANTITATIVE METHODS IN EDUCATION
+https://sinax006.wixsite.com/website-6/abstract-art
