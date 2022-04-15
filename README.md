@@ -10,3 +10,6 @@ https://github.com/sinax006/sinax006/blob/Structured-Foundations/Python/Sina.ipy
 
 ### TABLEAU
 https://public.tableau.com/app/profile/ahmad.saquib
+
+### SQL
+https://github.com/sinax006/sinax006/blob/Structured-Foundations/SQL%20Data%20Analysis
