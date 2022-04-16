@@ -16,7 +16,7 @@ https://public.tableau.com/app/profile/ahmad.saquib/viz/Book9_16473613199030/Sto
 https://public.tableau.com/app/profile/ahmad.saquib/viz/Book2_16468121594210/Story1
 
 ### SQL
-https://github.com/sinax006/sinax006/blob/Structured-Foundations/SQL%20Data%20Analysis
+https://github.com/sinax006/sinax006/blob/Structured-Foundations/Structured%20Query%20Language/SQL%20Data%20Analysis
 
 ### SURVEY AND EXPERIMENTAL RESEARCH
 https://github.com/sinax006/sinax006/blob/Structured-Foundations/Survey%20research/10-1108_IJRDM-11-2018-0244.pdf
